@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Full stack web development program 
 - 💞️ I’m looking to collaborate on DSA code challengers.
 - 📫 Patna
+- 🤝 rishikeshrathor293@gmail.com
+
 
 <!---
 rishirathor/rishirathor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
