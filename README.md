@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RISHIKESH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p> <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="gif"> </p>
+<p align="center"> <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="gif" align : "center"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishirathor&label=Profile%20views&color=0e75b6&style=flat" alt="rishirathor" /> </p>
 
