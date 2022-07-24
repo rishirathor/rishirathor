@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirathor&show_icons=true&locale=en" alt="rishirathor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishirathor&" alt="rishirathor" /></p>
-<p><img align="center" src="https://github.com/rishirathor/rishirathor/blob/output/github-contribution-grid-snake.gif" alt="rishirathor" /></p>
+<p><img align="center" src="https://github.com/rishirathor/blob/output/github-contribution-grid-snake.gif" alt="rishi" /></p>
