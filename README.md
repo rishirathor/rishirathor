@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RISHIKESH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-satck developer from India</h3>
 
 <p align="center"> <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="gif" align : "center"> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishirathor" alt="rishirathor" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently a **FULL STACK DEVELOPMENT**
 
-- 💬 Ask me about **CORE JAVA, HTML, CSS, JavaScript**
+- 💬 Ask me about **.NET CORE, C#, ANGULAR, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **rishikeshrathro293@gmail.com**
 
